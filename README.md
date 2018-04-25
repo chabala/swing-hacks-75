@@ -30,8 +30,8 @@ Run ```java -jar target/swing-hacks-75-0.1.0.jar``` to start the program.
 
 This is the waveform for the classic [Windows 3.1 chimes.wav](https://www.youtube.com/watch?v=nH3y5_t3JRw), in a narrow window:
 
-![narrow waveform](site/resources/images/chimes-narrow.png)
+![narrow waveform](blob/master/src/site/resources/images/chimes-narrow.png)
 
 and the same window after being stretched wider:
 
-![wide waveform](site/resources/images/chimes-wide.png)
+![wide waveform](blob/master/src/site/resources/images/chimes-wide.png)
